@@ -1,0 +1,44 @@
+// -------------------------------------------------------------------------------------
+// Site Name: BM Generator
+// Author: Erik van der Pluijm
+//
+// Stylesheet: Variables
+// -------------------------------------------------------------------------------------
+//
+
+$background:                              #f5f5f5;
+$footerbg:                                #333333;
+$greybg:                                  #aaaaaa;
+$footer:                                  #eeeeee;
+
+$menucolorbg:                             #000000;
+$menucolor:                               #ffffff;
+
+$bodycolor:                               #000000;  // main text color
+$fadedtext:                               #aaaaaa;  // less important text
+
+// borders & lines 
+//
+$border-color:                            $bodycolor;
+
+// post-its
+//
+$postit-yellow:                           #f5ff59;
+$postit-green:                            #7cc576;
+$postit-blue:                             #90bde8;
+$postit-purple:                           #a186be;
+$postit-pink:                             #f06eaa;
+$postit-red:                              #f26c4f;
+$postit-orange:                           #fec13e;
+
+// nav
+$nav-color:                               #003339;
+$nav-link-color:                          #ffffff;
+
+// info box
+$ibox-back-color:                         #ffffff;
+$ibox-border-color:                       #eeeeee;
+
+// warning badges
+$warning-background:                      orange;
+$warning-color:                           white;

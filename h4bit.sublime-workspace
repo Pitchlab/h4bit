@@ -1,0 +1,794 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"hist",
+				"historyItem"
+			],
+			[
+				"h",
+				"historyItem"
+			],
+			[
+				"getQ",
+				"getQuestAsJson"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bootstra",
+				"bootstrap-tagsinput"
+			],
+			[
+				"source",
+				"dragSource"
+			],
+			[
+				"pro",
+				"projectlist"
+			],
+			[
+				"change",
+				"change_color"
+			],
+			[
+				"post",
+				"postItModel"
+			],
+			[
+				"canvas",
+				"canvaslistref"
+			],
+			[
+				"uui",
+				"uuid2"
+			],
+			[
+				"getF",
+				"getFirebaseRef"
+			],
+			[
+				"fire",
+				"firebaseObject"
+			],
+			[
+				"get",
+				"getTimeDifferenceString"
+			],
+			[
+				"p",
+				"postits"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"set",
+				"setUpdated"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"dragS",
+				"dragSource"
+			],
+			[
+				"org",
+				"organizePostits"
+			],
+			[
+				"Canvas",
+				"CanvasController"
+			],
+			[
+				"dr",
+				"dropTargetModel"
+			],
+			[
+				"xM",
+				"xMarginTotal"
+			],
+			[
+				"se",
+				"setPos"
+			],
+			[
+				"y",
+				"yOffset"
+			],
+			[
+				"x",
+				"xOffset"
+			],
+			[
+				"rel",
+				"relativeYPosition"
+			],
+			[
+				"rela",
+				"relativeXPosition"
+			],
+			[
+				"str",
+				"stripPrefix"
+			],
+			[
+				"pos",
+				"postit"
+			],
+			[
+				"po",
+				"postItId"
+			],
+			[
+				"building",
+				"buildingblocks"
+			],
+			[
+				"Load",
+				"loadJSON"
+			],
+			[
+				"load",
+				"loadJSON"
+			],
+			[
+				"Data",
+				"DataModel"
+			],
+			[
+				"data",
+				"dataController"
+			],
+			[
+				"be",
+				"beforeEach"
+			],
+			[
+				"gl",
+				"globalData"
+			],
+			[
+				"ca",
+				"canvasModel"
+			],
+			[
+				"bu",
+				"buildingblocklist"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"bui",
+				"buildingblocks"
+			],
+			[
+				"cont",
+				"containsItem"
+			],
+			[
+				"development",
+				"co-development"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"buildin",
+				"buildingBlockId"
+			],
+			[
+				"jso",
+				"jsonUrl"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"the",
+				"the_ID"
+			],
+			[
+				"scr",
+				"scrolling"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"table",
+				"tablecolorbg"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"sens",
+				"sensorvalue"
+			],
+			[
+				"sen",
+				"sensorid"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"sensor",
+				"sensortype"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"body",
+				"bodycolor"
+			],
+			[
+				"bord",
+				"bordersize"
+			],
+			[
+				"30x",
+				"30Xcolor"
+			],
+			[
+				"30X",
+				"30Xcolor"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"getCo",
+				"getContent"
+			],
+			[
+				"getW",
+				"getWorksheetByTitle"
+			],
+			[
+				"getS",
+				"getSpreadsheetByTitle"
+			],
+			[
+				"spread",
+				"spreadsheetFeed"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"da",
+				"dayoftheyear"
+			],
+			[
+				"tw",
+				"twitter_friends"
+			],
+			[
+				"twitter",
+				"twitter_followers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "h4bit/www/index.html",
+			"settings":
+			{
+				"buffer_size": 2075,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/erikvanderpluijm/Dropbox (Business Models Inc)/BMINC Branding/Stories/60 days",
+		"/Users/erikvanderpluijm/Dropbox (Business Models Inc)/BMINC Branding/Stories/manifesto",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/config.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/data/canvaslist2.json",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/mainController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/data/structure.json",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/projectListController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/canvasListController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/postitController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/breakpoints/_base.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/canvasController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_typography.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/modules/_canvas-editor.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/contentEditableDirective.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/dragDropDirective.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/common.js",
+		"/Users/erikvanderpluijm/Sites/BMC/views/canvaslist.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/dataService.js",
+		"/Users/erikvanderpluijm/Sites/BMC/views/projectlist.html",
+		"/Users/erikvanderpluijm/Sites/BMC/index.html",
+		"/Users/erikvanderpluijm/Sites/BMC/views/canvas.html",
+		"/Users/erikvanderpluijm/Sites/BMC/views/postit.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/lib/angular-mocks.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/common.spec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/SpecRunner.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/controller.spec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/notes.txt",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/bootstrap/bootstrap/_modals.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/contenteditableDirective.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/style.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/modules/_list-editor.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/breakpoints/_768up.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/testController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/views/test.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_variables.scss",
+		"/Users/erikvanderpluijm/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_bootstrap-variables.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/bootstrap/bootstrap/_type.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_canvas-editor.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_dashboard.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_test.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_bootstrap-variables",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/modules/_forms.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/breakpoints/_481up.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/breakpoints/_1030up.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/toolbarController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/routing.js",
+		"/Users/erikvanderpluijm/Sites/BMC/test.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/test.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/postit.model.spec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/canvas.model.spec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/buildingblock.model.spec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/buildingblock.model.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/canvas.model.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/postit.model.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/data.service.js",
+		"/Users/erikvanderpluijm/Sites/BMC/example.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/controller.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/PlayerSpec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/DataModelSpec.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/DataModel.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/LoaderHelper.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/DataService.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/CanvasModel.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/dev/CanvasController.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/DataModel.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/src/Player.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/data/DataModel.json",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/SpecHelper.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/bmcgen.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/model.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/controller.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/common.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/scripts.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/canvaslist2.json",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/postits.json",
+		"/Users/erikvanderpluijm/Sites/BMC/readme.txt",
+		"/Users/erikvanderpluijm/Sites/BMC/todo.js",
+		"/Users/erikvanderpluijm/Sites/BMC/angulartest.html",
+		"/Users/erikvanderpluijm/Sites/BMC/library/scss/partials/_normalize.scss",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/test/spec/dataS[ec.js",
+		"/Users/erikvanderpluijm/.Trash/data.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/js/data.js",
+		"/Users/erikvanderpluijm/Sites/BMC/library/css/style.css",
+		"/Users/erikvanderpluijm/Downloads/Business+Model+-+Fit+for+the+Future+%28Business+Class%29.csv",
+		"/Users/erikvanderpluijm/Sites/30X4/home.php",
+		"/Users/erikvanderpluijm/Sites/30X4/library/scss/breakpoints/_base.scss",
+		"/Users/erikvanderpluijm/Sites/30X4/library/bones.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/style.scss",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/breakpoints/_base.scss",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/header.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/home.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/work.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/page.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/single.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/post-formats/format.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/page-templates/page-home.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/page-templates/page-work.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/30X_Header.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/footer.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/breakpoints/_768up.scss",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/breakpoints/_1030up.scss",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/breakpoints/_481up.scss",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/partials/_nav.scss",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/page-templates/page-custom.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/page-templates/page-about.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/sidebar.php",
+		"/Users/erikvanderpluijm/Sites/wordpress2/wp-content/themes/30X/library/scss/partials/_variables.scss",
+		"/Users/Erik/Sites/30X3/wp-content/themes/30X/css/style.less",
+		"/Users/Erik/Sites/30X3/wp-content/themes/30X/css/style.css",
+		"/Users/Erik/Sites/30X3/wp-content/themes/30X/header.php",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/breakpoints/_1030up.scss",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/header.php",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/modules/_alerts.scss",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/partials/_variables.scss",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/sidebar.php",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/footer.php",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/functions.php",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/style.css",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/style.scss",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/partials/_grid.scss",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/partials/_functions.scss",
+		"/Users/erik/Sites/wordpress2/wp-content/themes/bones/library/scss/breakpoints/_base.scss",
+		"/Users/erik/Sites/wordpress2/wp-content/themes/bones/library/scss/editor-style.scss",
+		"/Users/Erik/Sites/wordpress2/wp-content/themes/bones/library/scss/modules/_forms.scss",
+		"/Users/erik/Sites/wordpress2/wp-admin/css/colors/light/colors.scss",
+		"/Users/erik/Sites/wordpress2/wp-content/themes/bones/library/css/editor-style.css",
+		"/Users/erik/Sites/wordpress2/wp-content/themes/bones/library/scss/.sass-cache/fe508ecb77002ce19d73d8e40cf2c75b6825e323/editor-style.scssc"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/erikvanderpluijm/Sites/BMC/library/scss",
+			"<open folders>",
+			"/Users/erik/Sites/wordpress2/wp-content/themes/bones/library/scss,-*.scssc",
+			"/Users/erik/Sites/wordpress2/wp-content/themes/bones/library/scss",
+			"/Users/erik/Sites/wordpress2/",
+			"/Users/erikvanderpluijm/Sites/wordpress2/",
+			"/Users/erikvanderpluijm/Sites/wordpress/",
+			"/Users/erikvanderpluijm/Sites/wordpress/database,/Users/erikvanderpluijm/Sites/wordpress/wp-admin,/Users/erikvanderpluijm/Sites/wordpress/wp-content,/Users/erikvanderpluijm/Sites/wordpress/wp-includes",
+			"10.10.105.199"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"modal-",
+			".log",
+			"setUpdated",
+			"log",
+			"$scope.user = {\n    \"name\" : \"Erik\"\n  };",
+			"margin-top",
+			"highlight",
+			"padding-top",
+			"tesca",
+			"green",
+			"blue",
+			"border-box",
+			"name",
+			"buildingblocks",
+			"canvass",
+			"case",
+			"CanvasModel",
+			"6",
+			"border",
+			"home",
+			".menu-item",
+			"nav",
+			"register_sidebar",
+			"logo",
+			".logo",
+			"$white",
+			"$black",
+			"$white",
+			"$lato",
+			"$text-color",
+			"$white",
+			"$text-color",
+			"$black",
+			"$lato",
+			"webfonts",
+			"Rename me",
+			"highlight",
+			"twitter",
+			"sidenote",
+			"Themnific Styling",
+			"themnific_head",
+			"themnific_wp_head()",
+			"themnific_head()",
+			"themnific_",
+			"the_post",
+			"themnific_head",
+			"#FFCC00 !important",
+			"10.10.105.199",
+			"With your team we co-create the world of your company, encapsulating vision, trends, competition, opportunities, and challenges.",
+			"test",
+			"h2",
+			"showcase-",
+			"tesca",
+			"img-responsive",
+			"showcase-2",
+			"home",
+			"pricing",
+			"h2",
+			"img",
+			"h1",
+			"/blank"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"aqua",
+			"orange",
+			"buildingblocklist",
+			"canvas",
+			"$sans-serif",
+			"$bodycolor",
+			"_blank"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "h4bit/www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								885,
+								885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "h4bit.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

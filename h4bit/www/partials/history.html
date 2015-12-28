@@ -1,0 +1,13 @@
+<!-- HISTORY -->
+
+<div class="container-fluid">    
+  <h1>H4BIT</h1>
+  <h3>Stats : G:{{user.gold}} | XP:{{user.xp}}</h3>
+
+  <h3>History</h3>
+  <ul>
+    <li ng-repeat="(id, action) in user.history">
+      {{action.datetime}} | {{action.name}} | XP:{{action.xp}} | G:{{action.gold}}
+    </li>
+  </ul>
+</div>

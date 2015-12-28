@@ -1,0 +1,10 @@
+<!-- MAIN --> 
+
+<div class="container-fluid">    
+  <h1 class="score">SCORE {{user.xp}}</h1>
+  <ul>
+    <li ng-repeat="(id, action) in user.actions">
+      <a class="btn btn-default btn-block" role="button" ng-click="handleClick(action)">{{action.name}} | {{action.xp}}</a>
+    </li>
+  </ul>
+</div>

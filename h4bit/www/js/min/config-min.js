@@ -1,0 +1,1 @@
+angular.module("h4b",["ngRoute","firebase"]).config(function(r){r.when("/home",{templateUrl:"partials/main.html",controller:"MainController",controllerAs:"mainCtrl"}).when("/history",{templateUrl:"partials/history.html",controller:"HistoryController",controllerAs:"historyCtrl"}).otherwise({redirectTo:"/home"})});
